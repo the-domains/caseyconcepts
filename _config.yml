@@ -1,0 +1,40 @@
+layout_spectrum: 0.360215
+opengraph:
+  image: null
+  type: null
+  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+color:
+  saturation: 0.9466621759347618
+  brandStrength: 0.9401367725804448
+  rhythmicContrast: 0.5084441094659269
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  lightness: 0.9921575272455812
+typography_spectrum: 0.6851851
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: CaseyConcepts
