@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T03:24:31.549Z'
-dateModified: '2016-02-22T03:24:11.719Z'
+datePublished: '2016-02-22T05:19:53.719Z'
+dateModified: '2016-02-22T05:19:53.420Z'
 title: McGraw-Hill Education
 author: []
+sourcePath: _posts/2016-02-22-mcgraw-hill-education.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-mcgraw-hill-education.md
-published: true
 url: mcgraw-hill-education/index.html
 _type: Article
 
@@ -32,7 +32,7 @@ Noble cause, intelligent people, and a good amount of "corporate creative work" 
 
 Here are some examples of that work. 
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/Ze__F2I2qU4" frameborder="0" allowfullscreen="" style=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Ze__F2I2qU4" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/501d8042-3c11-4d74-969d-c4438ed01d23.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02c97494-f40a-49a8-a220-607d906fae03.jpg)
