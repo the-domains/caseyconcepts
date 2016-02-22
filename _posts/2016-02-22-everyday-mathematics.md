@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T03:08:25.640Z'
-dateModified: '2016-02-22T03:07:56.844Z'
+datePublished: '2016-02-22T05:19:43.978Z'
+dateModified: '2016-02-22T05:19:43.687Z'
 title: Everyday Mathematics
 author: []
+sourcePath: _posts/2016-02-22-everyday-mathematics.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-everyday-mathematics.md
-published: true
 url: everyday-mathematics/index.html
 _type: Article
 
