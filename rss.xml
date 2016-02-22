@@ -4,8 +4,15 @@
         <description><![CDATA[CaseyConcepts]]></description>
         <link>https://thegrid.ai/caseyconcepts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 05:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 05:30:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/caseyconcepts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello. ]]></title>
+            <description><![CDATA[<article><h1>Hello. </h1><h2>I'm Casey and I'm a copywriter.</h2></article>]]></description>
+            <link>https://thegrid.ai/caseyconcepts/1dafdb72-271a-4111-9a46-39ca5d8d2b23/index.html</link>
+            <guid isPermaLink="false">1dafdb72-271a-4111-9a46-39ca5d8d2b23</guid>
+            <pubDate>Mon, 22 Feb 2016 05:20:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Health & Pharma]]></title>
             <description><![CDATA[<article><h1>Health & Pharma</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/595ddc52ed71d71b1ca3299af854dcf4ab137d03.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/caseyconcepts/everyday-mathematics/index.html</link>
             <guid isPermaLink="false">0de07525-4e44-48fe-a5d9-e7ac94faaf1f</guid>
             <pubDate>Mon, 22 Feb 2016 05:19:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello. ]]></title>
-            <description><![CDATA[<article><h1>Hello. </h1><h2>I'm Casey and I'm a copywriter.</h2></article>]]></description>
-            <link>https://thegrid.ai/caseyconcepts/1dafdb72-271a-4111-9a46-39ca5d8d2b23/index.html</link>
-            <guid isPermaLink="false">1dafdb72-271a-4111-9a46-39ca5d8d2b23</guid>
-            <pubDate>Mon, 22 Feb 2016 04:04:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
