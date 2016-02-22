@@ -1,6 +1,6 @@
 name: CaseyConcepts
 favicon: null
-layout_spectrum: 0.360215
+layout_spectrum: 0.75048
 typography_spectrum: 0.6851851
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#70bd1f'
     - '#585858'
     - '#949494'
-  brandStrength: 0.9401367725804448
-  lightness: 0.9921575272455812
-  saturation: 0.9466621759347618
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5084441094659269
 purpose: []
